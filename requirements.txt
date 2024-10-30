@@ -1,0 +1,19 @@
+# Python
+python>=3.9
+
+# Packages
+python-dotenv
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+pypdf
+yt_dlp
+pydub
+librosa
+beautifulsoup4
+requests
+tiktoken
+chromadb==0.5.0
+lark

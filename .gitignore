@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+build/
+docs/chroma
+docs/youtube
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# OS files
+.DS_Store
+Thumbs.db
